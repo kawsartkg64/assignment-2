@@ -85,22 +85,22 @@
 }
 
 .header-continer {
-  
+
     display: flex;
     align-items: center;
-   justify-content: center;
-   gap:150px;
-  
-   background-size: cover;
-   background-repeat: no-repeat;
-   background-image: url('./images/Group14.png');
-   
+    justify-content: center;
+    gap: 150px;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('./images/Group14.png');
+
 
 }
-.banner{
 
-}
-.img-head{
+.banner {}
+
+.img-head {
     width: 80%;
     height: 50%;
 }
@@ -129,12 +129,12 @@
 }
 
 .description {
-   
+
     color: #534C64;
     font-size: 20px;
     font-weight: 500;
     text-transform: lowercase;
-    
+
 }
 
 .btn-1 {
@@ -162,5 +162,48 @@
     font-size: 20px;
     font-weight: 600;
     text-transform: uppercase;
+
+}
+
+.games-head {
+    color: #0B0223;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.games-text {
+    text-align: center;
+}
+
+.funny-text {
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 48px;
+    font-weight: 700;
+
+
+}
+
+.games-head {
+    padding-top: 30px;
+}
+
+.funny-descirption {
+    padding-bottom: 25px;
+}
+
+
+.games-image {
+
+    display: flex;
+    justify-content: center;
+    padding-left: 240px;
+    padding-right: 240px;
+    gap: 25px;
+    color: #534C64;
+    font-size: 20px;
+    font-weight: 500;
 
 }
