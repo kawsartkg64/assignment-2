@@ -76,21 +76,12 @@
     height: 40px;
 }
 
-
 .header-continer {
-    /* width: 100%; */
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-
-.header-continer {
-
+    width: 100%;
     display: flex;
     align-items: center;
-    justify-content: center;
-    gap: 150px;
-
+    justify-content:space-around;
+    gap: 50px;
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url('./images/Group14.png');
@@ -98,11 +89,12 @@
 
 }
 
-.banner {}
+
 
 .img-head {
-    width: 80%;
-    height: 50%;
+    display: flex;
+    width: 410px;
+    /* height: ; */
 }
 
 
