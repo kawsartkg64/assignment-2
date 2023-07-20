@@ -23,6 +23,26 @@
         flex-direction: column;
     }
 
+.main-banner-heading-2{
+    font-size: 24px;
+    text-align: center;
+}
+.description-banner{
+    text-align: center;
+    font-size: 1rem;
+}
+
+.btn-1-banner{
+    text-align: center;
+    margin: 0 44px;
+}
+
+.heading-1 {
+    color: #0B0223;
+    text-align: center;
+    font-size: 15px;
+    text-transform: uppercase;
+}
 
 /* <><><><><>< games container <><><><><>< */
 
@@ -32,19 +52,19 @@
     flex-direction: column;
 
 }
-
-
-
-
-
-
-
-
-.main-content{
-    flex-direction: column;
+.games-head{
+    color: #0B0223;
+    font-size: 18px;
+}
+.funny-text{
+    font-size: 18px;
+    
 }
 
 
+.careers-section{
+    flex-direction: column;
+}
 
 
 }
