@@ -1,37 +1,50 @@
 @media screen and (max-width:576px) {
-    .nav-container{
+    .nav-container {
         flex-direction: column;
-        align-items: center;
     }
-    .menu-item-container {
 
+    .menu-item-container {
         flex-direction: column;
+        text-align: center;
         align-items: center;
-        gap: 10px;
     }
-    .top-social{
-        margin-top: 15px;
-        margin-bottom: 45px;
-        width:248px;
+
+    .top-social {
+        width: 262px;
+        height: 56px;
     }
-    ..social-img{
-        width: 43px;
-        height: 40px;
+    .img-head,.header-content{
+        width: 325px;
     }
     .header-continer{
         flex-direction: column;
-        align-items: center;
     }
-    .banner{
+    .main-banner-2{
         flex-direction: column;
-        align-items: center;
     }
-    .header-content{
-        flex-direction: column;
-        align-items: center;
-    }
-    .description{
-        flex-direction: column;
-        align-items: center;
-    }
+
+
+/* <><><><><>< games container <><><><><>< */
+
+
+
+.games-image{
+    flex-direction: column;
+
+}
+
+
+
+
+
+
+
+
+.main-content{
+    flex-direction: column;
+}
+
+
+
+
 }
