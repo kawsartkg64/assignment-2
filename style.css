@@ -82,10 +82,6 @@
     align-items: center;
     justify-content: space-around;
     gap: 50px;
-    background-size: cover;
-    background-repeat: no-repeat;
-
-
 
 }
 
@@ -95,6 +91,12 @@
     display: flex;
     width: 410px;
     /* height: ; */
+}
+
+.img-head-2 {
+    display: flex;
+    width: 568px;
+    height: 489px;
 }
 
 
@@ -156,6 +158,16 @@
     text-transform: uppercase;
 
 }
+
+
+.main-banner-2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: right;
+    width: 100%;
+}
+
 
 .games-head {
     color: #0B0223;
