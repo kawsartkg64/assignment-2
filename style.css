@@ -290,6 +290,7 @@
     gap: 29px;
 }
 
+
 .img1 {
     position: relative;
     top: 0;
@@ -297,18 +298,8 @@
     border: 1px solid #000000;
     width: 534px;
     height: 550px;
-
-
 }
 
-.img1-1 {
-    position: relative;
-    top: 0;
-    left: 0;
-    border: 1px solid #000000;
-    width: 534px;
-    height: 550px
-}
 
 .img2 {
 
@@ -321,14 +312,6 @@
 
 }
 
-.img2-2 {
-    position: absolute;
-    top: 320px;
-    right: -82px;
-    border: 1px solid #000000;
-    width: 218.5px;
-    height: 265.083px;
-}
 
 .main-content-text {
     color: #0B0223;
@@ -373,12 +356,7 @@
     font-weight: 400;
 }
 
-.content-description1 {
-    color: #534C64;
-    text-align: left;
-    font-size: 18px;
-    font-weight: 400;
-}
+
 
 .careers-section {
     margin-top: 120px;
@@ -400,7 +378,7 @@
 }
 
 .item-careers {
-    width: 60%;
+   
 }
 
 .item-careers ul {
